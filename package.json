@@ -1,0 +1,22 @@
+{
+  "name": "angelco-task-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0",
+    "typescript": "^2.1.6"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/chai-http": "0.0.30",
+    "@types/es6-promise": "0.0.32",
+    "@types/mocha": "^2.2.39",
+    "@types/request-promise": "^4.1.33",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.2.0"
+  }
+}
