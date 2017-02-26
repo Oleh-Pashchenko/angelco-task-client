@@ -1,4 +1,3 @@
-
 export interface TaskClientInterface {
     addTask(filters: Array<string>);
 
